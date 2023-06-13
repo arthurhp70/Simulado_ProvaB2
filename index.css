@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: blue ;
+    background-color: cyan;
+  }
+
+  h2 {
+    color: #000;
+    background-color: lightblue;
+  }
+  
+  div {
+    margin-top: 60px;
+  }
+  
+  form {
+    margin-top: 10px;
+  }
+  
+  label, input, button {
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  .result {
+    margin-top: 10px;
+    font-weight: bold;
+    color: red;
+  }
